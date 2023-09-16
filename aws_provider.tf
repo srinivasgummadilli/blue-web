@@ -1,3 +1,4 @@
+#AWS provider info
 provider "aws" {
   region     = "us-west-2"
   access_key = "my-access-key"
